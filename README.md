@@ -42,7 +42,7 @@ yarn add helper-ui-kit
 
 #### First Step
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onurcanalpp/helper-ui-lit/src/layout/grid.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onurcanalpp/helper-ui-kit/src/layout/grid.css">
 ```
 
 ### HTML Structure of grids and usage 
